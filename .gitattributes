@@ -1,0 +1,10 @@
+# Git attributes for the PLC-ST repository.
+#
+# Language detection (GitHub Linguist):
+# Carel Structured Text (IEC 61131-3) sources use the .st extension, which
+# Linguist maps to Smalltalk. "Structured Text" is not a language known to
+# Linguist, and unknown language names cannot be added to the language
+# statistics, so the files are excluded from the statistics instead of being
+# mislabelled as Smalltalk.
+*.st linguist-language=Structured-Text
+*.st linguist-detectable=false
