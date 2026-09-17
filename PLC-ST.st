@@ -1,4 +1,13 @@
 ﻿(*
+    PLC-ST - Carel pCO / c.pCO HMI application template (Structured Text)
+    Copyright (c) 2026 Shahidsamadov
+    SPDX-License-Identifier: MIT
+
+    Licensed under the MIT License. See the LICENSE file in the repository root
+    for the full license text.
+*)
+
+(*
     SetLedStatus Legend
 
     Syntax
